@@ -1,0 +1,14 @@
+a:
+  b:
+    c: Hello-Config-C
+  b2: Hello-Config-B2
+a2: Hello-Config-A2
+
+
+server:
+  port: 8890
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:10001/eureka/
