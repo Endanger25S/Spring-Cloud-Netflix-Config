@@ -3,7 +3,7 @@ spring:
     name: liming-spring-cloud-netflix-eureka
 
 server:
-  port: 10002
+  port: 10001
 
 eureka:
   instance:
