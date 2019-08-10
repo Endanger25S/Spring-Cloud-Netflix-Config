@@ -1,3 +1,4 @@
 a:
   b:
-    c: Hello-Config-Dev
+    c: Hello-Config-C
+  b2: Hello-Config-B2
